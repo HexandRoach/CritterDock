@@ -1,0 +1,27 @@
+
+# Godot generated files
+.godot/
+.export/
+export_credentials.cfg
+
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Downloaded speech model
+/voice/model/
+
+# Local builds and backups
+/build/
+/builds/
+*.bak
+*.backup
+*.gd.save
+
+# Private configuration
+.env
+.env.*
+*.pem
+*.key
